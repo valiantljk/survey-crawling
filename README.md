@@ -2,7 +2,9 @@
 simple python code for crawling a survey website to extract all user information
 
 #Written by Jialin Liu 
+
 #Email: valiantljk@gmail.com
+
 #Date and Time: Sep 15, 10pm - Sep 16, 4am, 2017
 
 #How to run:
